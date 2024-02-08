@@ -1,6 +1,6 @@
 # Chat PDF
 
-Wrote article to help understand this code. you can find it here: <a href="https://www.linkedin.com/pulse/build-your-own-pdf-reader-bot-using-openai-nextjs-moaz-irfan-fidze">How to build your own PDF Reader Bot using OpenAI in Next.js</a>
+Wrote article to help understand this code. <a href="https://www.linkedin.com/pulse/build-your-own-pdf-reader-bot-using-openai-nextjs-moaz-irfan-fidze">How to build your own PDF Reader Bot using OpenAI in Next.js</a>
 
 <p>Chat with any PDF and get answers to your content-related questions.</p>
 
